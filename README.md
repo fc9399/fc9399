@@ -9,7 +9,7 @@
 
 - I've specialized in **Machine Learning, Data Structures, and Finance**
 
-- All of my projects are available at [https://github.com/fc9399?tab=repositories](https://github.com/sasun8820?tab=repositories)
+- All of my projects are available at [https://github.com/fc9399?tab=repositories](https://github.com/fc9399?tab=repositories)
 
 - 📫 How to reach me **fchau9399@gmail.com**
 
