@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi! 👋 I'm Fung Chau.</h1>
 <h3 align="center">A graduate student at Columbia University's QMSS program</h3>
 
