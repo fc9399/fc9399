@@ -15,7 +15,7 @@
 **Internship Experience:**  
 - **Banyan Investment Management (2024)**: Risk Management Intern who analyzed fund performance, monitored portfolio risks, performed stress tests, prepared due diligence for investments, and generated reports for stakeholders.
 - **Banyan Investment Management (2023)**: Financial Analyst Intern who received training in Chinese financial statements, achieved proficiency in the Wind Financial Terminal, and conducted financial analyses, including a detailed case study on Zijin Mining Group with earnings projections
-- **First Shanghai Venture Capital Management (SHENZHEN) CO., Ltd.**: Financial Analyst Intern who analyzed Bilibili’s financials, predicted advertisement revenue contributions, assessed new user-generated content models, and authored detailed reports.
+- **First Shanghai Venture Capital Management (SHENZHEN) CO., Ltd.(2022)**: Financial Analyst Intern who analyzed Bilibili’s financials, predicted advertisement revenue contributions, assessed new user-generated content models, and authored detailed reports.
 
 **Awards & Honors:**  
 - Wall Street Journal Student Achievement Award (sole recipient across the graduating class of 2024): Honor the person's excellence in academics and behaviors as a model finance student.
